@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mahanoor 👋
 
-<!--
-**mayasyed/mayasyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst with 2.5 years of experience turning messy operational data into decisions people actually act on. I've worked across aviation catering, finance, and operations, building Power BI dashboards, writing SQL pipelines, and translating numbers into stories for non-technical stakeholders.
 
-Here are some ideas to get you started:
+Currently open to **Product Analyst**, **People Data Analyst**, and **BI Analyst** roles in the UK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tools & Skills
+
+| Category | Tools |
+|---|---|
+| Data & SQL | SQL Server, PostgreSQL, Power Query |
+| Visualisation | Power BI, Tableau, Excel |
+| Programming | Python (pandas, matplotlib, seaborn) |
+| Workflow | DAX, star schema design, ETL pipelines |
+
+---
+
+## 📂 Featured Projects
+
+### 🔄 Customer Churn Analysis
+Analysed subscription data to identify high-risk customer segments and surface actionable retention recommendations.
+SQL segmentation, Python EDA, interactive Tableau dashboard.
+[View project →](https://github.com/mayasyed/Portfolio/tree/main/customer-churn)
+
+---
+
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahanoor%20Shams-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahanoor-shams)
+[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mahanoor.shams)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white)](https://github.com/mayasyed/Portfolio)
